@@ -8,7 +8,7 @@
 
 
 
- class tabel_kebun extends MY_Controller{
+ class Tabelkebun extends MY_Controller{
 
    //  function getdata($from,$where=null,$limit=9,$offset=0){
 
